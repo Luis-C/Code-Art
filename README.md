@@ -1,6 +1,10 @@
 # Code-Art
 
-Learning Flask and React
+Learning Flask and React. Trying to code more for fun.
+
+# Notes:
+
+- Based on Research React + Flask is not a common stack (May Pivot idea)
 
 ## References:
 
