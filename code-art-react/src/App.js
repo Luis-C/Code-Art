@@ -117,7 +117,7 @@ export default function MiniDrawer() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap>
-            Mini variant drawer
+            Code-Art
           </Typography>
         </Toolbar>
       </AppBar>
@@ -168,13 +168,9 @@ export default function MiniDrawer() {
       </Drawer>
       <main className={classes.content}>
         <div className={classes.toolbar} />
-        <Typography paragraph>Lorem ipsum dolor sit amet, co</Typography>
+        <Typography paragraph>Learning React basics.</Typography>
         <Typography paragraph>
-          Consequat mauris nunc congue nisi vitae suscipit. Fringilla est
-          ullamcorper eget nulla facilisi etiam dignissim diam. Pulvinar
-          elementum integer enim neque volutpat ac tincidunt. Ornare suspendisse
-          sed nisi lacus sed viverra tellus. Purus sit amet volutpat consequat
-          mauris. Elementum eu faci
+          This project has been made with Material UI.
         </Typography>
       </main>
     </div>
