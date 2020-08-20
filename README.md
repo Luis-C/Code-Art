@@ -4,9 +4,6 @@ Learning React. Trying to code more for fun.
 
 # Notes:
 
-- ~~Based on Research React + Flask is not a common stack (May Pivot idea)~~
-- Will pivot to MERN stack since it is more comfortable.
-
 ## References:
 
 - https://www.youtube.com/watch?v=YW8VG_U-m48&t=60s
