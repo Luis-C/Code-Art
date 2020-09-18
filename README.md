@@ -10,6 +10,7 @@ Learning React. Trying to code more for fun.
 - https://flask.palletsprojects.com/en/1.1.x/
 - https://blog.hackerrank.com/creating-art-with-code/
 
+<!--
 ## Setup:
 
 ```Powershell
@@ -25,3 +26,4 @@ py -3 -m venv code-art-env
 pip install -r requirements.txt
 .\code-art-env\Scripts\activate
 ```
+-->
